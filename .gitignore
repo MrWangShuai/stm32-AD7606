@@ -1,0 +1,7 @@
+[plain] view plaincopy
+# 过滤程序编译文件
+*.bat
+*.txt
+*.ini
+*.WangS
+/OBJ/
